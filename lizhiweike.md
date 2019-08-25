@@ -7,12 +7,25 @@ draft: true
 description: 
 ---
 
+列举问题/困境/痛点
+列出拥有某项能力的好处
+列出解决这些痛点的方式（课程大纲）
+列出好评/成功案例。
+赚回学费。
+赠送礼物。
+
+
+
+
 宣传文案
 
 描述问题/困境
 ![enter description here](https://i.loli.net/2019/08/25/oSb2xntIMC7PNTm.png)
 
 生活中你是否被这样的问题困扰着
+![enter description here](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1566711126833]]]" )
+
+拥有某种能力的好处
 
 
 底部：赚回学费
