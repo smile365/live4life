@@ -2,7 +2,7 @@
 title:  ukulele
 date: 2019-09-01T05:50:28.847Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---

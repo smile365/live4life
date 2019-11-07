@@ -2,7 +2,7 @@
 title:  money
 date: 2019-10-29T11:35:25.928Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---

@@ -2,7 +2,7 @@
 title:  爱的能力是什么
 date: 2019-08-13T01:16:05.264Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---

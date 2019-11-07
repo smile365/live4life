@@ -2,7 +2,7 @@
 title:  
 date: 2019-11-01T08:13:30.769Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---

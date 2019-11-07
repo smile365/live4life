@@ -2,7 +2,7 @@
 title:  荔枝微课-社交技能
 date: 2019-08-25T05:22:07.016Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---

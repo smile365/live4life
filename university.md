@@ -2,7 +2,7 @@
 title: 上大学是为了什么 
 date: 2019-08-13T01:21:17.897Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---

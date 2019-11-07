@@ -2,7 +2,7 @@
 title:  糖尿病饮食清单
 date: 2019-10-07T01:41:02.970Z
 tags: 
-categories:
+categories: ["life"]
 draft: true
 description: 
 ---
