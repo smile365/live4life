@@ -1,5 +1,5 @@
 ---
-title:  
+title:  写给小白的股票投资指南
 date: 2019-11-01T08:13:30.769Z
 tags: 
 categories: ["life"]
@@ -7,7 +7,6 @@ draft: true
 description: 
 ---
 
-写给小白的股票投资指南
 
 1.开户
 
