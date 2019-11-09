@@ -2,7 +2,7 @@
 title: "最新科学上网教程(2019年11月)"
 date: "2019-11-05T11:47:49.901Z"
 tags: ["科学上网"]
-categories: ["life"]
+categories: ["tools"]
 description: 
 ---
 

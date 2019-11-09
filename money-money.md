@@ -1,5 +1,5 @@
 ---
-title:  读《小狗钱钱》
+title:  做的越多，学的越多，机会才越多
 date: 2018-10-14T09:58:17.198Z
 tags: ["读书"]
 categories: ["read"]
