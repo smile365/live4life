@@ -1,8 +1,7 @@
 ---
 title:  历史没有对错，只是一个记忆而已
 date: 2018-07-12T15:08:47.165Z
-categories: ["book"]
-
+categories: ["read"]
 tags: 
  - 读书
 ---

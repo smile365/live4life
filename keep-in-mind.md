@@ -3,7 +3,6 @@ title:  过节之前需要特别注意的事情
 date: 2019-08-07T05:07:57.419Z
 tags: 
 categories: ["life"]
-draft: true
 description: 
 ---
 
