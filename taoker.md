@@ -1,7 +1,7 @@
 ---
 title:  如何领取优惠券
 date: 2019-11-09T04:52:45.545Z
-categories: ["life"]
+categories: ["tools"]
 tags: 
 description: 
 ---
