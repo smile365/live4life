@@ -1,6 +1,7 @@
 ---
 title:  总是觉得迷茫，很丧，要么办？
 date: 2019-11-13T11:43:29.609Z
+tags: ["自信"]
 categories: ["life"]
 draft: true
 description:
