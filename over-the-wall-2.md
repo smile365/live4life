@@ -1,8 +1,9 @@
 ---
-title: "最新科学上网教程(2019年11月)"
-date: "2019-11-05T11:47:49.901Z"
-tags: ["科学上网"]
-categories: ["tools"]
+title: 最新科学上网教程(2019年11月) 
+date: 2019-11-01T03:31:23.730Z
+tags: 
+categories:
+draft: true
 description: 
 ---
 
@@ -11,6 +12,7 @@ description:
 首选你需要[购买一台在国外的服务器](sxy91.com)。
 
 然后[登录上服务器](sxy91.com)
+
 
 **需要的工具**
 
@@ -98,14 +100,13 @@ tar zxvf kcptun-linux-amd64*.tar.gz
 清空所有。填写：`key=你的kcptun密码;`  
 
 保存后启动即可。
-
+kcptun需要自启动权限，若提示`无法连接远程服务器：未知插件kcptun`，可以按照这篇文章设置：[华为：无法连接远程服务器:未知插件kcptun](https://blog.csdn.net/cakecc2008/article/details/80182165)
 
 **mac电脑上网方法**
 
 到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动。
 
 配置
-
 ![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
 
 
@@ -114,9 +115,10 @@ tar zxvf kcptun-linux-amd64*.tar.gz
 
 - [如何购买一台服务器并配置好](sxy91.com)
 - [如何登录服务器](sxy91.com)
+- []()
 
 
-参考文献
+参考连接
 
 - [kcptun使用.json文件启动](https://blog.phpgao.com/kcptun.html/comment-page-1)
 - [kcptun使用.sh文件启动](https://home4love.com/3154.html)
