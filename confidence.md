@@ -16,3 +16,6 @@ description:
 
 培养自己的自信，真的非常非常重要。
 
+参考文章：
+
+- [培养自信](https://mp.weixin.qq.com/s/lO0XXuIeKxf2Q1-EF9KVnQ)
