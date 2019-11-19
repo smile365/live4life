@@ -22,7 +22,9 @@ windows用户可以下载工具[xshell](https://www.netsarang.com/zh/free-for-ho
 - shadowsocks（服务端+客户端）
 - kcptun（服务端+客户端）
 
-**1.服务器端安装shadowsocks**
+### 一.服务器端安装shadowsocks
+
+1.1 下载并安装
 
 ```bash
 # 安装pip，通过pip安装shadowsocks
@@ -33,8 +35,11 @@ python get-pip.py
 pip install shadowsocks
 ```
 
-配置shadowsocks：`vi /etc/shadowsocks.json`    
+1.2配置shadowsocks  
 
+```shell
+vi /etc/shadowsocks.json
+```
 用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在`password`的地方(自己想一个也行)
 
 
@@ -49,12 +54,16 @@ pip install shadowsocks
 }
 ```
 
-启动shadowsocks:`nohup ssserver -c /etc/shadowsocks.json >/dev/null 2>&1 &`
+1.3启动shadowsocks  
+
+```shell
+nohup ssserver -c /etc/shadowsocks.json >/dev/null 2>&1 &
+```
 
 
-**2.服务器端安装kcptun**
+### 二.服务器端安装kcptun
 
-安装kcptun
+2.1 下载kcptun
 
 在[kcptun-发布页面](https://github.com/xtaci/kcptun/releases)找到`kcptun-linux-amd64`版本，并复制下载链接。
 ```shell
@@ -64,7 +73,8 @@ wget https://github.com/xtaci/kcptun/releases/download/v20190924/kcptun-linux-am
 tar zxvf kcptun-linux-amd64*.tar.gz
 ```
 
-配置kcptun  
+2.2 配置kcptun  
+
 ```shell
 mkdir /etc/kcptun
 vi /etc/kcptun/config.json
@@ -76,22 +86,27 @@ vi /etc/kcptun/config.json
 {
     "target":"127.0.0.1:50013",
     "listen":":4000",
-    "key":"你的kcptun密码",
+    "key":"你的kcptun密码"
 }
 ```
 
-启动kcptun: `nohup ./server_linux_amd64 -c /etc/kcptun/config.json 1>/dev/null 2>&1 &`
+2.3启动kcptun
 
-**安卓手机上网方法**
+```shell
+nohup ./server_linux_amd64 -c /etc/kcptun/config.json 1>/dev/null 2>&1 &
+```
 
-1、安装shadowsocks和kcptun插件:
+
+### 三.安卓手机上网方法
+
+3.1安装shadowsocks和kcptun插件
 
 到[shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)页面 下载`shadowsocks--universal.apk
 `并安装。
 
 到[kcptun-android](https://github.com/shadowsocks/kcptun-android/releases)页面下载`kcptun--universal.apk`并安装。
 
-2、配置：
+3.2配置ss和插件：
 
 启动shadowsocks点击+号，手动设置。填写如下信息：
 
@@ -109,13 +124,15 @@ vi /etc/kcptun/config.json
 
 kcptun需要自启动权限，若提示`无法连接远程服务器：未知插件kcptun`，可以按照这篇文章设置：[华为：无法连接远程服务器:未知插件kcptun](https://blog.csdn.net/cakecc2008/article/details/80182165)
 
-**电脑上网方法**
+### 四.电脑上网方法
+
+4.1 下载
 
 mac用户到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动。
 
 windows用户到[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)下载`Shadowsocks.zip`，解压后直接运行。
 
-配置
+4.2 配置
 ![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
 
 
