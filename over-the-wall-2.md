@@ -8,6 +8,8 @@ description:
 
 防火墙阻断了大多数异常的tcp连接，因此需要新的方式上网了。目前比较可行的是udp/socket/cdn三种方式。本教程使用udp方式，后面更新其他方式。
 
+### 准备工作
+
 首选你需要[购买一台在国外的服务器](https://sxy91.com/posts/over-the-wall/)。
 
 然后**登录服务器**  
