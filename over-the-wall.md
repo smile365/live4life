@@ -39,13 +39,10 @@ description : 一份全平台支持的翻墙图文教程
 下载相应的客户端（[安卓](https://github.com/shadowsocks/shadowsocks-android/releases)、[ios](https://github.com/shadowsocks/shadowsocks-iOS/releases)、[window](https://github.com/shadowsocks/shadowsocks-windows/releases)、[mac](https://github.com/shadowsocks/ShadowsocksX-NG/releases)或[Linux](https://github.com/shadowsocks/shadowsocks-qt5/releases)）进行安装。安装完成后填写第二步生成的加密方式、端口和密码就完成了。官方还附赠了科学上网的客户端教程，真是贴心。
 
 
+**ps**: 记得把百度换成谷歌啊亲们，你会回来感谢我的。安卓用户推荐安装[谷歌Play](https://play.google.com/)、里面好玩的应用太多了。 
+**pps**：如果你选择了不带KVM控制面板的vps，那么你需要通过命令安装ss服务端。需要教程可私聊我。   
 
-
-**ps**:安卓用户推荐安装[谷歌Play](https://play.google.com/)、找好玩的应用就不愁了。记得跟百度说再见吧，用了谷歌根本回不去。
-**pps**：如果你选择了不带KVM控制面板的vps，那么你需要通过命令安装ss服务端。
-**ppps**：我真的只是学习，真的没有大人能看的网站。
-
-有什么问题欢迎微信交流：**smile8365**
+有什么问题欢迎微信交流：**smile8365**  
 
 今天就写到这里，后续教程计划：  
 1、通过命令安装Shadowsocks Server  
