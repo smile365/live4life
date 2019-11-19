@@ -149,7 +149,8 @@ windows用户较为繁琐，下载[Shadowsocks.zip](https://github.com/shadowsoc
 
 运行kcptun_gclient.exe，点击界面左下角的“添加”
 KCPTun客户端exe文件：选择client_windows_amd64.exe
-本地监听端口：可以任意填写（1024-65535）
+本地监听端口：可以任意填写（1024-65535），其余保持与服务器一直。
+
 
 启动ss并配置。
 
