@@ -100,9 +100,11 @@ tar zxvf kcptun-linux-amd64*.tar.gz
 保存后启动即可。
 kcptun需要自启动权限，若提示`无法连接远程服务器：未知插件kcptun`，可以按照这篇文章设置：[华为：无法连接远程服务器:未知插件kcptun](https://blog.csdn.net/cakecc2008/article/details/80182165)
 
-**mac电脑上网方法**
+**电脑上网方法**
 
-到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动。
+mac用户到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动。
+
+windows用户到[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)下载`Shadowsocks.zip`，解压后直接运行。
 
 配置
 ![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
