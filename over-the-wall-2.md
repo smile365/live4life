@@ -64,7 +64,11 @@ wget https://github.com/xtaci/kcptun/releases/download/v20190924/kcptun-linux-am
 tar zxvf kcptun-linux-amd64*.tar.gz
 ```
 
-配置kcptun：`vi /etc/kcptun/config.json`
+配置kcptun  
+```shell
+mkdir /etc/kcptun
+vi /etc/kcptun/config.json
+```
 
 用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在key的地方(自己想一个也行)
 
