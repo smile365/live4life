@@ -78,26 +78,29 @@ tar zxvf kcptun-linux-amd64*.tar.gz
 
 **安卓手机上网方法**
 
-安装shadowsocks和kcptun插件:
+1、安装shadowsocks和kcptun插件:
 
 到[shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)页面 下载`shadowsocks--universal.apk
 `并安装。
 
 到[kcptun-android](https://github.com/shadowsocks/kcptun-android/releases)页面下载`kcptun--universal.apk`并安装。
 
-配置：
+2、配置：
 
-启动shadowsocks点击+号，手动设置。
+启动shadowsocks点击+号，手动设置。填写如下信息：
 
+```yaml
 服务器：你的服务器ip  
 远程端口：kcptun.json里配置的`listen`，即4000  
 密码：shadowsocks.json里配置的`password`  
-
+```
 
 点击插件-->kcptun-->配置  
 清空所有。填写：`key=你的kcptun密码;`  
 
 保存后启动即可。
+
+
 kcptun需要自启动权限，若提示`无法连接远程服务器：未知插件kcptun`，可以按照这篇文章设置：[华为：无法连接远程服务器:未知插件kcptun](https://blog.csdn.net/cakecc2008/article/details/80182165)
 
 **电脑上网方法**
