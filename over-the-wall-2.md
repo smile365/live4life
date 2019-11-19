@@ -26,7 +26,7 @@ windows用户可以下载工具[xshell](https://www.netsarang.com/zh/free-for-ho
 
 ### 一.服务器端安装shadowsocks
 
-1.1 下载并安装
+1.1 下载并安装ss
 
 ```bash
 # 安装pip，通过pip安装shadowsocks
@@ -37,7 +37,7 @@ python get-pip.py
 pip install shadowsocks
 ```
 
-1.2配置shadowsocks  
+1.2配置ss 
 
 ```shell
 vi /etc/shadowsocks.json
@@ -56,7 +56,7 @@ vi /etc/shadowsocks.json
 }
 ```
 
-1.3启动shadowsocks  
+1.3启动ss  
 
 ```shell
 nohup ssserver -c /etc/shadowsocks.json >/dev/null 2>&1 &
@@ -98,7 +98,6 @@ vi /etc/kcptun/config.json
 nohup ./server_linux_amd64 -c /etc/kcptun/config.json 1>/dev/null 2>&1 &
 ```
 
-
 ### 三.安卓手机上网方法
 
 3.1安装shadowsocks和kcptun插件
@@ -130,14 +129,17 @@ kcptun需要自启动权限，若提示`无法连接远程服务器：未知插�
 
 4.1 下载
 
-mac用户到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动。
+mac用户到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动(已经自带了kcptun客户端，无需再安装)。
 
-windows用户到[shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)下载`Shadowsocks.zip`，解压后直接运行。
+windows下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases)解压，然后下载[kcptun-windows.tar.gz
+](https://github.com/xtaci/kcptun/releases)解压到Shadowsocks的目录,然后启动ss即可。
+
 
 4.2 配置
 ![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
 
 
+若遇到错误：`Shadowsocks 错误: 系统找不到指定的文件`,是因为ss找不到kcptun。需要把需要将插件的程序放到你Shadowsocks.exe 所在的目录下。
 
 相关教程：
 
