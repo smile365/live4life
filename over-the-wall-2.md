@@ -42,8 +42,7 @@ pip install shadowsocks
 ```shell
 vi /etc/shadowsocks.json
 ```
-用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在`password`的地方(自己想一个也行)
-
+用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在`password`的地方(自己想一个也行),`server_port`填一个1000～65535之间的数字，其余不用改。
 
 ```json
 {
@@ -55,6 +54,8 @@ vi /etc/shadowsocks.json
     "method":"aes-256-cfb"
 }
 ```
+
+
 
 1.3启动ss  
 
@@ -82,7 +83,7 @@ mkdir /etc/kcptun
 vi /etc/kcptun/config.json
 ```
 
-用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在key的地方(自己想一个也行)
+用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在`key`的地方(自己想一个也行)，其余不用改。
 
 ```json
 {
@@ -92,6 +93,9 @@ vi /etc/kcptun/config.json
 }
 ```
 
+若需要自定义端口：`target`里面的`50013`需要和ss的`server_port`对应，`listen`填一个1000～65535之间的数字。
+
+
 2.3启动kcptun
 
 ```shell
@@ -100,14 +104,14 @@ nohup ./server_linux_amd64 -c /etc/kcptun/config.json 1>/dev/null 2>&1 &
 
 ### 三.安卓手机上网方法
 
-3.1安装shadowsocks和kcptun插件
+3.1 安装shadowsocks和kcptun插件
 
 到[shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)页面 下载`shadowsocks--universal.apk
 `并安装。
 
 到[kcptun-android](https://github.com/shadowsocks/kcptun-android/releases)页面下载`kcptun--universal.apk`并安装。
 
-3.2配置ss和插件：
+3.2 配置ss和插件：
 
 启动shadowsocks点击+号，手动设置。填写如下信息：
 
@@ -127,15 +131,28 @@ kcptun需要自启动权限，若提示`无法连接远程服务器：未知插�
 
 ### 四.电脑上网方法
 
-4.1 下载
+4.1 mac用户
 
-mac用户到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动(已经自带了kcptun客户端，无需再安装)。
+下载ss客户端： 
+到[mac-shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases)页面下载`ShadowsocksX-NG.zip`,解压后拖到应用里启动(已经自带了kcptun客户端，无需再安装)。
 
-windows下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases)解压，然后下载[kcptun-windows.tar.gz
-](https://github.com/xtaci/kcptun/releases)解压到Shadowsocks的目录,然后启动ss即可。
+启动ss客户端并配置：
+![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
 
 
-4.2 配置
+4.2 windows用户
+
+下载：
+
+windows用户较为繁琐，下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases)解压，下载[kcptun-windows.tar.gz
+](https://github.com/xtaci/kcptun/releases)解压到Shadowsocks的目录,下载[kcptun_gclientv.zip](https://github.com/dfdragon/kcptun_gclient/releases)解压到ss目录。
+
+运行kcptun_gclient.exe，点击界面左下角的“添加”
+KCPTun客户端exe文件：选择client_windows_amd64.exe
+本地监听端口：可以任意填写（1024-65535）
+
+启动ss并配置。
+
 ![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
 
 
