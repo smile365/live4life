@@ -80,6 +80,8 @@ vi /etc/kcptun/config.json
 }
 ```
 
+启动kcptun: `nohup ./server_linux_amd64 -c /etc/kcptun/config.json 1>/dev/null 2>&1 &`
+
 **安卓手机上网方法**
 
 1、安装shadowsocks和kcptun插件:
