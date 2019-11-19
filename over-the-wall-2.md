@@ -11,15 +11,17 @@ description:
 
 首选你需要[购买一台在国外的服务器](sxy91.com)。
 
-然后[登录上服务器](sxy91.com)
+然后**登录服务器**  
+
+mac用户直接敲命令`ssh -p 端口 root@ip`
+
+windows用户可以下载工具[xshell](https://www.netsarang.com/zh/free-for-home-school/)来连接到服务器。
 
 
 **需要的工具**
 
 - shadowsocks（服务端+客户端）
 - kcptun（服务端+客户端）
-
-
 
 **1.服务器端安装shadowsocks**
 
@@ -31,9 +33,6 @@ wget https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 pip install shadowsocks
 ```
-
-
-
 
 配置shadowsocks：`vi /etc/shadowsocks.json`    
 
@@ -113,9 +112,8 @@ kcptun需要自启动权限，若提示`无法连接远程服务器：未知插�
 
 相关教程：
 
-- [如何购买一台服务器并配置好](sxy91.com)
-- [如何登录服务器](sxy91.com)
-- []()
+- [如何购买一台服务器并配置好](https://sxy91.com/posts/over-the-wall/)
+- [如何登录服务器](https://sxy91.com/categories/tools/)
 
 
 参考连接
