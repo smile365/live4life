@@ -150,7 +150,7 @@ windows用户下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-
 启动ss并配置
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1574303201500.png)
 
-
+插件选项留空，插件参数按如下方式填写，替换密码就行：
 `-l %SS_LOCAL_HOST%:%SS_LOCAL_PORT% -r %SS_REMOTE_HOST%:%SS_REMOTE_PORT% --key 你的kcptun密码`
 
 
