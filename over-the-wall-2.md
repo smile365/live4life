@@ -144,20 +144,17 @@ kcptun需要自启动权限，若提示`无法连接远程服务器：未知插�
 
 下载：
 
-windows用户较为繁琐，下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases)解压，下载[kcptun-windows.tar.gz
-](https://github.com/xtaci/kcptun/releases)解压到Shadowsocks的目录,下载[kcptun_gclientv.zip](https://github.com/dfdragon/kcptun_gclient/releases)解压到ss目录。
+windows用户下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases)解压，下载[kcptun-windows.tar.gz
+](https://github.com/xtaci/kcptun/releases)解压到Shadowsocks的目录。
 
-运行kcptun_gclient.exe，点击界面左下角的“添加”
-KCPTun客户端exe文件：选择client_windows_amd64.exe
-本地监听端口：可以任意填写（1024-65535），其余保持与服务器一直。
+启动ss并配置
 
 
-启动ss并配置。
 
-![enter description here](https://i.loli.net/2019/11/01/P4NG9fS2OgAr1RM.png)
+`-l %SS_LOCAL_HOST%:%SS_LOCAL_PORT% -r %SS_REMOTE_HOST%:%SS_REMOTE_PORT% --key 你的kcptun密码`
 
 
-若遇到错误：`Shadowsocks 错误: 系统找不到指定的文件`,是因为ss找不到kcptun。需要把需要将插件的程序放到你Shadowsocks.exe 所在的目录下。
+若遇到错误：`Shadowsocks 错误: 系统找不到指定的文件`,是因为ss找不到kcptun。需要把需要将插件程序放到你Shadowsocks.exe 所在的目录下。
 
 相关教程：
 
