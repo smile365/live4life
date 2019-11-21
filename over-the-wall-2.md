@@ -148,7 +148,7 @@ windows用户下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-
 ](https://github.com/xtaci/kcptun/releases)解压到Shadowsocks的目录。
 
 启动ss并配置
-
+![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1574303201500.png)
 
 
 `-l %SS_LOCAL_HOST%:%SS_LOCAL_PORT% -r %SS_REMOTE_HOST%:%SS_REMOTE_PORT% --key 你的kcptun密码`
