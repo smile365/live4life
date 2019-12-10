@@ -3,7 +3,6 @@ title:  国债逆回购简明指南
 heading: 
 date: 2019-12-10T08:45:29.039Z
 categories: ["life"]
-draft: true
 tags: ["国债逆回购","股票"]
 description: 国债逆回购最低额度，国债逆回购代码。
 ---
