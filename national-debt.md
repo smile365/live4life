@@ -1,6 +1,6 @@
 ---
-title:  国债逆回购简明指南
-heading: 
+title:  国债逆回购说明和操作教程
+heading: 国债逆回购是什么-如何购买-如何操作-如何交易
 date: 2019-12-10T08:45:29.039Z
 categories: ["life"]
 tags: ["国债逆回购","股票"]
