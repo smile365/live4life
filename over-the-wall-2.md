@@ -42,11 +42,11 @@ pip install shadowsocks
 ```shell
 vi /etc/shadowsocks.json
 ```
-用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在`password`的地方(自己想一个也行),`server_port`填一个1000～65535之间的数字，其余不用改。
+用[密码生成器](https://suijimimashengcheng.51240.com/)生成一个密码填写在`password`的地方(自己想一个也行),其余不用改。
 
 ```json
 {
-    "server":"0.0.0.0",
+    "server":"127.0.0.1",
     "server_port":50013,
     "local_port":1080,
     "password":"你的shadowsocks密码",
@@ -93,8 +93,9 @@ vi /etc/kcptun/config.json
 }
 ```
 
-若需要自定义端口：`target`里面的`50013`需要和ss的`server_port`对应，`listen`填一个1000～65535之间的数字。
+> `target`里面的`50013`需要和ss的`server_port`对应，若想更改`listen`可填一个1000～65535之间的数字。
 
+> 若服务器开启了防火墙需要打开响应的端口。centos 6 执行:`/sbin/iptables -I INPUT -p udp --dport 4000 -j ACCEPT`。centos 7执行:`firewall-cmd --add-port=4000/udp --permanent`
 
 2.3启动kcptun
 
@@ -150,8 +151,11 @@ windows用户下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-
 启动ss并配置
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1574303201500.png)
 
-插件选项留空，插件参数按如下方式填写，替换密码就行：
-`-l %SS_LOCAL_HOST%:%SS_LOCAL_PORT% -r %SS_REMOTE_HOST%:%SS_REMOTE_PORT% --key 你的kcptun密码`
+插件选项留空，插件参数按如下方式填写，替换`你的kcptun密码`就行：
+
+```bash
+-l %SS_LOCAL_HOST%:%SS_LOCAL_PORT% -r %SS_REMOTE_HOST%:%SS_REMOTE_PORT% --key 你的kcptun密码
+```
 
 
 若遇到错误：`Shadowsocks 错误: 系统找不到指定的文件`,是因为ss找不到kcptun。需要把需要将插件程序放到你Shadowsocks.exe 所在的目录下。
