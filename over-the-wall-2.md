@@ -1,5 +1,5 @@
 ---
-title: 最新科学上网教程(2019年11月) 
+title: 最新科学上网教程(2020年) 
 date: 2019-11-01T03:31:23.730Z
 tags: ["科学上网"]
 categories: ["tools"]
@@ -159,6 +159,8 @@ windows用户下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-
 
 
 若遇到错误：`Shadowsocks 错误: 系统找不到指定的文件`,是因为ss找不到kcptun。需要把需要将插件程序放到你Shadowsocks.exe 所在的目录下。
+
+遇到问题欢迎加微信交流：`smile8365`
 
 相关教程：
 
