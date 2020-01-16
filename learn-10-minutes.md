@@ -22,23 +22,25 @@ description:
 
 ### 2 有时候想把电脑上的网页，在手机上打开怎么办？
 
-打开手机浏览器，照着电脑浏览器输入一遍网址？太累了，安装一个插件，瞬间把当前网页显示一个二维码，用微信扫一扫或者手机浏览器扫一扫立马打开。是不是方便很多？
+打开手机浏览器，照着电脑浏览器输入一遍网址？太累了！
+
+安装这个chrome插件[Anything to QRCode](https://chrome.google.com/webstore/detail/calkaljlpglgogjfcidhlmmlgjnpmnmf)，瞬间把当前网页显示一个二维码，用微信扫一扫或者手机浏览器扫一扫立马打开。是不是方便很多？
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1579172848402.png)
 
 ### 3 微信有个牛叉的功能99%的人不知道！
 
 不知道你寄快递的时候有没有遇到这样的情况
-- 没记住快递单号
-- 拿了快递留存单，但是查快递不方便
-- 抄写快递单给别人容易写错
+- 没记住快递单号 😭
+- 拿了快递留存单，但是查快递不方便 😭
+- 抄写快递单给别人容易写错 😭
 
 现在交给你一个简单、方便、科学的方法，打开微信，右上角+，点扫一扫，对着快递单的条码一扫。我的天，快递状态一目了然。还能订阅到提醒：快递送达提醒你，签收提醒你。如果是给别人邮寄，点右上角分享还能直接把快递单分享给朋友。更可怕的是还能查快递小哥电话，随时联系。不得了！不得了！扫它！
 
 
 ### 4 辅导小学生算术题不会做怎么办？
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1579174429021.png)
+![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1579175199764.png)
 
 百度一下喽，比如：`234*56+78`
 
