@@ -3,7 +3,6 @@ title:  有哪些十分钟就能学会并终生受用的生活技能？
 heading: 
 date: 2020-01-16T10:39:12.336Z
 categories: ["life"]
-draft: true
 tags: 
 description: 
 ---
