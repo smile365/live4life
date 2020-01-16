@@ -7,7 +7,7 @@ tags:
 description: 
 ---
 
-问题来自 知乎：``
+原问题来自[知乎](https://www.zhihu.com/question/20894671/answer/976235783)，我补充如下：
 
 
 ### 1 用chrome，妈妈再也不用担心我忘记密码
