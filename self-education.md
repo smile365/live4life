@@ -2,8 +2,6 @@
 title:  成年人如何学会学习，如何自我教育
 heading: 
 date: 2020-01-23T06:23:15.315Z
-categories: ["life"]
-draft: true
 tags: 
 description: 
 ---
