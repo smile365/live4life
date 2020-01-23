@@ -1,11 +1,10 @@
 ---
 title:  教会女票用2000赚到230的理财过程揭秘
-heading: 
+heading: 怎样可以坚持存钱呢？
 date: 2020-01-23T07:53:45.204Z
 categories: ["life"]
-draft: true
 tags: 
-description: 
+description: ["存钱","理财","股票","国债逆回购","买新债"]
 ---
 
 刷知乎的时候，有人在知乎问“如何能存下钱来”。索性回答一波，正文如下：
