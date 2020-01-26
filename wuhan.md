@@ -3,7 +3,6 @@ title:  有关武汉最热门的3篇谣言文章，你是否转发过。
 heading: 
 date: 2020-01-25T10:17:09.738Z
 categories: ["life"]
-draft: true
 tags: 
 description: 
 ---
