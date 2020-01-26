@@ -49,6 +49,8 @@ description:
 
 各地医疗机构正在组织医护人员小分队前往武汉支援，多个地区已经放假的医生自愿请战去武汉支援。
 
+全国各地的医务工作者已经前往武汉支援，第一批包括上海、北京、浙江、四川、江苏等，还有许多医疗小分队自愿提前结束休假并提交了请战书。感谢英雄的医疗工作者们！
+
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1580008814919.png)
 
 各生产厂商正在召回工作者，加班加点生产医用口罩护服等医疗用品。
@@ -79,12 +81,11 @@ description:
 --
 2.官方媒体的疫情和辟谣实时播报
 
-丁香医生版：
-https://3g.dxy.cn/newh5/view/pneumonia
+丁香医生版：https://3g.dxy.cn/newh5/view/pneumonia
+
 网易版：http://news.163.com/special/epidemic/
 
-腾讯版：
-https://news.qq.com//zt2020/page/feiyan.htm
+腾讯版：https://news.qq.com//zt2020/page/feiyan.htm
 
 总之一切总会过去，一切总会好起来。
 
