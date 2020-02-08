@@ -1,5 +1,5 @@
 ---
-title:  谈谈写作
+title:  写作这件小事
 heading:  读《文心》有感
 date: 2020-02-08T12:03:49.413Z
 categories: ["life"]
