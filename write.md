@@ -4,7 +4,7 @@ heading:  读《文心》有感
 date: 2020-02-08T12:03:49.413Z
 categories: ["life"]
 tags: 
-description: 
+description: 关于写作，夏丏尊、叶圣陶两位老先生在80年前就写过不错的教程。
 ---
 
 ![题图：文心封面](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581249748218.png)
