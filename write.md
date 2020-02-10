@@ -1,10 +1,10 @@
 ---
-title:  1934年推出的写作课，朱自清推荐过，至今仍被赞无数
+title:  写作这件小事
 heading:  如何学习写作
 date: 2020-02-08T12:03:49.413Z
 categories: ["life"]
 tags: ["文心","写作","朱自清","叶圣陶","夏丏"]
-description: 关于写作，夏丏尊、叶圣陶两位老先生在80年前就写过不错的教程。
+description: 关于写作，夏丏尊、叶圣陶两位老先生在80年前就写过不错的教程。1934年推出的写作课，朱自清推荐过，至今仍被赞无数
 ---
 
 ![Image by 024-657-834 from Pixabay ](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581252535918.png)
