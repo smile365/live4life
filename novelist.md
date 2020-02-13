@@ -1,5 +1,5 @@
 ---
-title:  围观一下日本小说是如何写成的
+title:  围观一下畅销全球的日本小说是如何写成的
 heading: 
 date: 2020-02-13T01:17:40.195Z
 categories: ["life"]
