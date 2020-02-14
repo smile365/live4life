@@ -21,15 +21,18 @@ description:
 使用教程如下：
 
 1. 先搜索要注册的软件，比如「一罐」
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581658976526.png)
+
+![搜索](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581658976526.png)
 
 2. 然后点击「获取手机号」
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581659020373.png)
+
+![获取虚拟号码](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581659020373.png)
 
 3. 然后打开「一罐」注册，点击「发送验证码」
 
 4. 接着回到工具，点击「查询验证码」，就得到验证码了。
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581659072148.png)
+
+![查询验证码](https://gitee.com/smile365/blogimg/raw/master/sxy91/1581659072148.png)
 
 
 5. 最后填写到「一罐」即可注册成功。
