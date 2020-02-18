@@ -96,9 +96,8 @@ description:  视频造假越来月简单，你看到的听到的不一定真实
 
 总之一切总会过去，一切总会好起来。
 
+更多实时资讯请关注「下课了」公众号。
 
 推荐阅读：
 
 - [少一分杀戮 少一分新型冠状病毒](https://mp.weixin.qq.com/s/fV7JSHxGGUsRySweJUrQbA)
-- [《新型冠状病毒感染防护》图书连夜出版上市](https://mp.weixin.qq.com/s/zUVJ_Cr8Az0MJNuY40YeFg)
-- [同济医生自述：疑似感染新型肺炎，自我隔离四天好转，我是怎么做到的](https://mp.weixin.qq.com/s/oBGsh3Uy0dGGhhqFhiozmQ)
