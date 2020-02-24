@@ -1,8 +1,8 @@
 ---
 title:  2019年书单
 heading: 
-date: 2020-02-24T06:38:28.531Z
-categories: ["life"]
+date: 2019-12-24T06:38:28.531Z
+categories: ["read"]
 tags: 
 description: 
 ---
@@ -14,4 +14,4 @@ description:
 - 日食记
 - 增长黑客
 - 刻意练习
-- 
+
