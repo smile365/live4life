@@ -7,6 +7,8 @@ tags: ["微信公众号排版"]
 description: WeChat Official Accounts
 ---
 
+![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1586498036802.png)
+
 微信公众号英文：WeChat Official Accounts
 
 如果你有一下一些问题：
@@ -42,10 +44,17 @@ description: WeChat Official Accounts
  - 放弃第三方排版，清除格式
  - 行间距1.75
  - 字间距1
- - 两端缩进8
+ - 两端缩进8～16都可
  - 字号16
- - 段与段之间空一行，不用首行缩进
+ - 段与段之间空一行（不用首行缩进）
+
+带自由授权协议的图库素材：
+
+ - http://stokpic.com/ 
+ - http://pixabay.com/ 
+ - http://finda.photo/ 
+ - http://unsplash.com/ 
+ - http://www.gettyimages.com/
 
 
-
-
+如果需要简单的设计封面图，可以微信搜索“下课了”，后台回复“封面”，获取傻瓜式的设计工具。比如本文的首页图。
