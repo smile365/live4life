@@ -31,3 +31,5 @@ description:
 ![检测的记录](https://gitee.com/smile365/blogimg/raw/master/sxy91/1588229695500.png)
 
 
+微x工具箱仅支持安卓版本，请到QQ群下载：1003185728
+
