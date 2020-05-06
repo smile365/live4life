@@ -37,7 +37,7 @@ description: 米侠浏览器 vip 视频,推荐米侠浏览器app，看全网vip�
 
 下载后打开界面是这样的。
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1588741971028.png)
+![下课了公众号](https://gitee.com/smile365/blogimg/raw/master/sxy91/1588741971028.png)
 
 看着简陋至极，但别慌，马上就是见证奇迹的时刻。
 
@@ -61,4 +61,4 @@ description: 米侠浏览器 vip 视频,推荐米侠浏览器app，看全网vip�
 有什么问题，欢迎加微信：**smile8365** 交流反馈。
 
 
-更多实用工具，请关注公众号“下课了”
+更多实用工具，请关注公众号“**下课了**”。
