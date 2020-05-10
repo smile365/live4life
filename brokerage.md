@@ -2,7 +2,7 @@
 title:  券商的佣金是多少_哪家证券公司佣金低？
 heading: 
 date: 2020-05-10T06:39:03.770Z
-categories: ["code"]
+categories: ["life"]
 tags:  ["券商佣金","证券公司佣金",""]
 description: 
 ---
