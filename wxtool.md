@@ -31,5 +31,12 @@ description:
 ![检测的记录](https://gitee.com/smile365/blogimg/raw/master/sxy91/1588229695500.png)
 
 
-支持安卓版本，最新版请到QQ群下载：1003185728
+支持安卓版本，最新版请到
+
+**下载方式**  
+ - 方式1： QQ群下载：1003185728
+ - 方式2： 微信搜索公众号「**下课了**」，回复「app」下载。   
+> ![微信扫一扫](https://gitee.com/smile365/blogimg/raw/master/sxy91/1582087774482.png)
+
+
 
