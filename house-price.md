@@ -2,7 +2,7 @@
 title:  房价
 heading: House price
 date: 2020-05-13T04:44:33.366Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
