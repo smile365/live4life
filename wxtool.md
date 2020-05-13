@@ -31,5 +31,5 @@ description:
 ![检测的记录](https://gitee.com/smile365/blogimg/raw/master/sxy91/1588229695500.png)
 
 
-[微x工具箱](https://lanzous.com/ic3vgvi)仅支持安卓版本，最新版请到QQ群下载：1003185728
+支持安卓版本，最新版请到QQ群下载：1003185728
 
