@@ -2,7 +2,7 @@
 title:  微x工具箱
 heading: 比wetool好用的软件|微x工具箱
 date: 2020-05-15T05:16:12.074Z
-categories: ["code"]
+categories: ["life"]
 tags: ["wetool","wxtool","wtool","wetool检测慢","wetool检测僵尸粉"]
 description: 
 ---
