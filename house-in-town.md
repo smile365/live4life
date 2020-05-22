@@ -7,6 +7,7 @@ tags:
 description: 年轻人别再贷款买房了，贷款买房和全款买房哪个划算。贷款买房划算吗?谁吃了亏?
 ---
 
+![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1589691612638.png)
 
 读《城里的房子》，摘录部分书中的观点和我的看法：
 - 1. 中国的房价有泡沫吗？---没有。同意。
