@@ -1,8 +1,8 @@
 ---
-title:  5-ways-to-delete-friend
-heading: 如何检测好友是否删除我的5种方法
+title:  如何检测好友是否删除我的5种方法
+heading: 
 date: 2020-05-31T12:30:24.450Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
