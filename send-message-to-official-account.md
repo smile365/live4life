@@ -12,7 +12,7 @@ description: 每次看到在微信公众号后台回复都很懵逼。什么是�
 
 比如下面的这样：
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1591275720729.png)
+![](https://gitee.com/smile365/blogimg/raw/master/sxy91/1591275720729.png)
 
 有的人会误以为是文章最下面的留言，
 
