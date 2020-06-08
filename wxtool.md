@@ -20,6 +20,7 @@ description:
 - 2 点击到[网盘下载](https://xiakele.lanzous.com/b0eppj2md)，密码：6699。
 - 3 点击到QQ群下载。<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0205580283f1d4211435b84db108766d9175a6c842da5d21dfba59ae5422461b"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="微x工具箱讨论群" title="微x工具箱讨论群"></a>
 
+
 #### 1. 打开无障碍服务
 不同软件操作不同，请自行搜索或者到群里咨询。
 
@@ -46,7 +47,7 @@ description:
 #### 6. 跳过标签
 无论是群发模式还是无打扰模式，均可跳过不想检测的好友，目前仅支持通过好友标签的方式跳过。
 
-#### 7. 如果停止检测
+#### 7. 停止检测
 若检测过程中想停止，可以连续按两次音量上健。
 
 #### 8. 打开日志
