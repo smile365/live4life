@@ -2,7 +2,7 @@
 title:  资金账号和股票账号的区别
 heading: 股票的股东账户和资金账户有什么区别？
 date: 2020-05-30T06:01:44.748Z
-categories: ["code"]
+categories: ["life"]
 tags: ["股东账户","资金账户"]
 description: 
 ---
