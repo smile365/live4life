@@ -2,7 +2,7 @@
 title:  两个券商之间如何互转股票
 heading: 股票账户如何从一个证券公司转移到另一个证券公司?
 date: 2020-05-29T05:39:38.009Z
-categories: ["code"]
+categories: ["life"]
 tags: ["转移股票","证券转户","券商网上转户"]
 description: 
 ---
