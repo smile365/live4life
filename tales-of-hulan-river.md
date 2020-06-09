@@ -2,7 +2,7 @@
 title:  Tales of Hulan River
 heading: 《呼兰河传》读后
 date: 2020-06-09T04:39:39.956Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
