@@ -10,7 +10,7 @@ description:
 
 ### 准备工作
 
-首选你需要[购买一台在国外的服务器](https://sxy91.com/posts/over-the-wall/)。
+首选你需要[购买一台在国外的服务器](https://sxy91.com/posts/over-the-wall-3/)。
 
 然后**登录服务器**  
 
