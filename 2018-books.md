@@ -3,7 +3,6 @@ title:  2018年之前度过的书
 heading: 
 date: 2020-03-18T12:46:06.169Z
 categories: ["life"]
-draft: true
 tags: 
 description: 
 ---
