@@ -1,10 +1,10 @@
 ---
-title:  Tales of Hulan River
-heading: 《呼兰河传》读后
+title:  《呼兰河传》读后
+heading: 
 date: 2020-06-09T04:39:39.956Z
 categories: ["life"]
 tags: 
-description: 
+description:  Tales of Hulan River
 ---
 
 第一次有读小说像读诗一样的感觉是读《边城》，无意中读到《呼兰河传》，再次回忆起这样的感觉。
