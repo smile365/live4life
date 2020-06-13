@@ -13,30 +13,31 @@ description:
 
 第一次听他的歌是在小学，那时候我有一个巴掌大小的录音机，厚度比新华字典薄点，放磁带的那种。
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592025171763.png)
+![录音机](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592025171763.png)
 
 那个年代比较穷，我没钱买磁带，就悄咪咪的跑去集市上的一家音像店偷磁带。其中有一盘听到双截棍这首歌，觉得挺有意思，有种黑社会小混混的感觉，然后就一直听他歌的。
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592025195552.png)
+![双节棍](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592025195552.png)
 至今我也没明白为啥别的没偷，就偷了周杰伦的歌（磁带）来听。
 
 当然，有一次被老板抓到了，罚我帮他干活，用湿抹布把磁带和放磁带的架子擦干净，从最下面一排，一直擦到最上一排才放我走。
 
 我擦完第一排开始擦第二排的时候，发现上排的灰会掉到下面一排，我就气冲冲的跑去找老板说：“从下面往上擦不对，灰还会掉下来，我都白擦了，应该从上往下擦”。老板盯着我愣了几秒，估计没反应过来一个小偷还敢这么理直气壮，过了几秒后他才说“那你去擦吧”。
 
+![周杰伦磁带](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592025227592.png)
+
 我猜我可能是第一个偷周杰伦的磁带还被抓到的人。
 
-![enter description here](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1592025227593]]]" )
 
 后来我还买过一个fm收音机，大概只有mp3播放器大小，很轻可以整天挂脖子上，那时候要10块钱一个。
 
 然后录音机和收音机都逐渐没落了，手机开始能听歌，有的手机还有fm收音机的功能，开始有了网络，能随意的下载想听的歌曲了。天天泡网吧的我逐渐走上了替同学下载歌曲的道路。
 
-也因此听了很多口味特别的歌曲，比如刚上高中有个女神，让我帮她下载MC Hotdog的《差不多先生》、《我爱台妹》等歌曲，虽然节奏不错，但是歌词听的我面红耳赤，幼小的心灵受到了相当大的冲击。
+也因此听了很多口味特别的歌曲，比如刚上高中有个女神，让我帮她下载MC Hotdog的《差不多先生》、《我爱台妹》等歌曲，虽然节奏不错，但是歌词听的我面红耳赤。心想长得这么美的女学霸竟然比我天天泡网吧还见识广，幼小的心灵受到了相当大的冲击。
 
-![enter description here](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1592022575087]]]" )
+![差不多先生（热狗）](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592025754837.png)
 
 真怀念那个可以随意听歌的年代。
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592024667608.png)
+![差不多姑娘（邓紫棋）](https://gitee.com/smile365/blogimg/raw/master/sxy91/1592024667608.png)
 
