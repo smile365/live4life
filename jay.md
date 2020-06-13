@@ -2,7 +2,7 @@
 title:  我偷了周杰伦的歌
 heading:
 date: 2020-06-13T01:56:20.824Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
