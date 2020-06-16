@@ -4,7 +4,7 @@ heading: 如何领取淘宝免单商品-抖音短视频
 date: 2020-06-16T03:10:25.678Z
 categories: ["life"]
 tags: 
-description:  200字以内，如何领取淘宝免单商品
+description:  200字以内，10句话以内，如何领取淘宝免单商品。
 ---
 
 
