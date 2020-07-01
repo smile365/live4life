@@ -1,6 +1,6 @@
 ---
-title: the-bad-kids 
-heading: 《隐秘的角落》与《坏小孩》谁更好
+title: 《隐秘的角落》与《坏小孩》谁更好
+heading: 
 date: 2020-06-29T14:50:00.600Z
 categories: ["code"]
 tags: 
