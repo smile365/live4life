@@ -162,10 +162,9 @@ windows用户下载[Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-
 
 遇到问题欢迎加微信交流：`smile8365`
 
-相关教程：
-
-- [如何购买一台服务器并配置好](https://sxy91.com/posts/over-the-wall/)
-- [如何登录服务器](https://sxy91.com/categories/tools/)
+推荐阅读：
+- [如何购买一台服务器并配置好](https://sxy91.com/posts/over-the-wall-3/)
+- [注册hostodo购买低价vps教程](https://sxy91.com/posts/hostodo/)
 
 
 参考连接
