@@ -1,16 +1,9 @@
 ---
-title: 上大学是为了什么 
-date: 2019-08-13T01:21:17.897Z
+title: university
+heading: 
+date: 2020-07-25T03:35:05.197Z
+categories: ["code"]
 tags: 
-categories: ["life"]
-draft: true
 description: 
 ---
 
-上大学是为了什么
-
-为什么要上学
-
-1. 学会学习
-2. 学会爱一个人
-3. 学会赚钱
