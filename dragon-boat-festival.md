@@ -2,7 +2,7 @@
 title: dragon-boat-festival
 heading: 端午vs端五，为啥要纪念屈原
 date: 2020-07-17T13:30:15.769Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
