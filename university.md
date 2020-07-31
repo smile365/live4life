@@ -1,8 +1,8 @@
 ---
-title: university
+title: 2020年高考志愿如何填报教程指南
 heading: 
 date: 2020-07-25T03:35:05.197Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
