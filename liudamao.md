@@ -2,7 +2,7 @@
 title:  liudamao
 heading: 刘大猫的财富之旅
 date: 2020-07-18T03:55:28.314Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
@@ -78,13 +78,4 @@ description:
 自信、社交、兴趣爱好对一个人的发展很重要，培养这三点是需要经济基础支撑的。
 
 抛开家庭条件，我发现他做事情的方式、解决问题的方式、思考问题的方式非常值得学习。
-
-
-
-
-
-
- 
-
-
 
