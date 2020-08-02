@@ -1,10 +1,10 @@
 ---
-title:  the-road-to-financial-freedom
+title:  财务自由之路--7年内赚到你的第一个1000万
 heading: 财务自由之路--7年内赚到你的第一个1000万
 date: 2020-07-12T12:43:10.247Z
-categories: ["code"]
+categories: ["life"]
 tags: 
-description: 
+description: 财务自由之路，the-road-to-financial-freedom
 ---
 
 财务自由之路（博多·舍费尔），看到原书的副标题是<7年内赚到你的第一个1000万>，那种让我看一眼就想走开的类型。不过仔细看了作者介绍，发现他还写过一本更出名的书叫《小狗钱钱》。之前读过《小狗钱钱》1和2，内容简单生动有趣，印象比较深。
