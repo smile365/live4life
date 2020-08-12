@@ -1,5 +1,5 @@
 ---
-title:travel-map
+title: 旅游足迹地图
 heading: 2020年有哪些可以在地图上标记旅行足迹的APP
 date: 2020-08-12T09:53:46.229Z
 categories: ["code"]
