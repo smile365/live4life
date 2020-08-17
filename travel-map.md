@@ -20,7 +20,7 @@ description: 旅游/旅行/景点/足迹/轨迹/地图/app/标记/笔记/记录
 
 我把市面上我能找到的有足迹功能的app应用或者网站体验了一番，不是丑，就是用起来太复杂，还有的根本不支持添加地点。没有一个app能满足我的需求。
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597226052001.png)
+![记录旅行足迹的app](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597226052001.png)
 
 
 既然自己是个程序员，那就自己给自己做一个吧。
