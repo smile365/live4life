@@ -2,7 +2,7 @@
 title: 旅游足迹地图
 heading: 可以在地图上标记旅行足迹的APP有哪些-2020年
 date: 2020-08-12T09:53:46.229Z
-categories: ["code"]
+categories: ["life"]
 tags: ["旅游足迹app","旅行轨迹应用","标记旅行景点的app"]
 description: 旅游/旅行/景点/足迹/轨迹/地图/app/标记/笔记/记录
 ---
