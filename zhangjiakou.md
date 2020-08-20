@@ -123,6 +123,23 @@ Failed during this command:
 
 一般是权限不足，先执行`sudo cpan`,然后执行`install Graph::Easy`即可
 
+使用
+```bash
+graph-easy <<< '[a] -> [b]'
+```
+
+复杂的一般先写在一个txt文件里
+```bash
+# test.txt
+[ Bonn ] --> [ Koblenz ] --> [ Frankfurt ] --> [ Dresden ]
+
+[ Koblenz ] --> [ Trier ] { origin: Koblenz; offset: 2, 2; }
+  --> [ Frankfurt ]
+```
+
+然后执行 `graph-easy test.txt`
+
+
 
 #### Graph::Easy的dsl语法
 
