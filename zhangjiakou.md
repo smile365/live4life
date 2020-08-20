@@ -103,6 +103,27 @@ Graph Easy 教程
 - 安装Graph::Easy ;这一步就很容易了；在命令行输入cpan进入cpan shell；然后输入 install Graph::Easy即可。
 使用
 
+安装完检测是否安装完成
+```bash
+graph-easy -version
+```
+
+如果在mac系统或者linux系统安装失败
+```
+ERROR: Can't create '/Library/Perl/5.18/Graph'
+mkdir /Library/Perl/5.18/Graph: Permission denied at /System/Library/Perl/5.18/ExtUtils/Install.pm line 469.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ at /System/Library/Perl/5.18/Module/Build/Base.pm line 3581.
+  SHLOMIF/Graph-Easy-0.76.tar.gz
+  ./Build install  -- NOT OK
+Failed during this command:
+ SHLOMIF/Graph-Easy-0.76.tar.gz               : install NO
+```
+
+一般是权限不足，先执行`sudo cpan`,然后执行`install Graph::Easy`即可
+
+
 #### Graph::Easy的dsl语法
 
 注释
