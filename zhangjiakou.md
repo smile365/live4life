@@ -16,12 +16,22 @@ description:  zhangjiakou
 张家口站  北京
 
 
+50公里
 
 ![张家口站到草原天路](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597915353318.png)
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597915642554.png)
+100公里
+![草原天路到草原天路东终点](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597915642554.png)
 
 高速1.5h，¥27；2.1h，8元
 不走高速2.5h
+
+100公里
 ![草原天路东终点到张家口站](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597915802640.png)
 
+清河站7:43 --> 8:47 张家口站
+
+吃饭租车买水，10:00,租车
+
+张家口站10:30 -- 11:30 草原天路
+草原天路东11:30 -- 16:30 草原天路东终点
