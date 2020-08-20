@@ -54,7 +54,7 @@ Graph Easy 教程
 
 通过关键词“文本流程图”、“txt流程图”，“字符流程图”等一番搜索，终于知道了这叫“ascii字符流程图”。
 
-通过`Graph::Easy`这个工具即可生成上面的流程图。`Graph::Easy`是一个perl语言实现的软件包，他的功能是“用文本画图像”。
+通过[Graph::Easy](http://bloodgate.com/perl/graph/manual/index.html)这个工具即可生成上面的流程图。`Graph::Easy`是一个perl语言实现的软件包，他的功能是“用文本画图像”。
 
 举个栗子🌰：
 
@@ -92,26 +92,7 @@ Graph Easy 教程
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1597893101723.png)
 
-`Graph::Easy`对`Graphviz`的DOT语言中流程图的部分进行了二次包装，提供了更简单的DSL语言，这样写流程图就更方便了，不用学习复杂的DOT语言和perl语言。DSL语言通过例子几分钟就能学会并上手，可谓简单不少。
-
-
-
-
-
-
-
-
-
-节点，边和图属性
-节点形状
-箭头形状
-色彩
-
-这个软件包的强大之处在于: 它定义了一套非常简单易用的专门用来描述图像的DSL（领域专用语言）,我们可以像写代码一样表达我们需要描述的图像（放心，这个语法非常简单）；不用关心图像里面如何布局；这种语言经过处理可以得到ASCII图像，直接放在代码注释中；如果需要还可以转换成png或者矢量图等格式。
-
-先举个简
-
-
+`Graph::Easy`对`Graphviz`的DOT语言中流程图的部分进行了二次包装，提供了更简单的DSL语言，从此描述一个流程图像码文字一样简单。不用关心图像里面如何布局，箭头颜色、边从哪里画等等复杂的信息。
 
 
 安装Graph::Easy的步骤如下：
@@ -122,4 +103,17 @@ Graph Easy 教程
 - 安装Graph::Easy ;这一步就很容易了；在命令行输入cpan进入cpan shell；然后输入 install Graph::Easy即可。
 使用
 
+#### Graph::Easy的dsl语法
 
+注释
+```
+# 用#号注释，#号后面有空格。空格通常没有什么影响，多个空字符会合并成一个，换行的空字符会忽略
+# 空格和换行通常没有什么影响，多个空字符会合并成一个，换行的空字符会忽略
+```
+
+
+
+
+参考文档  
+- [Graph::Easy的dsl语法](http://bloodgate.com/perl/graph/manual/syntax.html)
+- [Graph::Easy文档译文](https://weishu.gitbooks.io/graph-easy-cn/content/)
