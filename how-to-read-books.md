@@ -1,5 +1,5 @@
 ---
-title:  朋友圈的三个新玩法
+title:  如何打造一个有影响力的朋友圈
 heading:  这样读书就够了
 date: 2020-02-24T11:26:21.302Z
 categories: ["life"]
