@@ -1,8 +1,8 @@
 ---
-title:  experience-of-renting-books2
+title:  我决定起诉小木屋图书的思考过程2
 heading: 我决定起诉小木屋图书的思考过程2
 date: 2020-11-21T05:42:29.072Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 
 ---
