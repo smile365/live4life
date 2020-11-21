@@ -2,7 +2,7 @@
 title:  得道还是失去
 heading: 长期沉迷与得道或者逻辑思维是什么情况
 date: 2020-08-18T01:38:40.708Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description: 不知道自己不知道，知道自己不知道，知道自己知道，不知道自己知道
 ---
