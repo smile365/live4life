@@ -2,7 +2,7 @@
 title:  张家口游记
 heading: 张北草原天路游记-2020年8月22日
 date: 2020-08-20T02:06:06.690Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 description:  zhangjiakou
 ---
