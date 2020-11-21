@@ -2,7 +2,7 @@
 title:  my-sop
 heading: 蠢事录
 date: 2020-10-31T10:58:14.442Z
-categories: ["code"]
+categories: ["other"]
 tags: 
 description: 
 ---
