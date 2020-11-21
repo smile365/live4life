@@ -2,7 +2,7 @@
 title:  miaomiao
 heading: 招商银行信用卡掌上生活app自动做任务赢取喵喵软件工具小助手
 date: 2020-05-27T05:32:06.522Z
-categories: ["code"]
+categories: ["other"]
 tags: 
 description: 
 ---
