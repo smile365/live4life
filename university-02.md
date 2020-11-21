@@ -2,7 +2,7 @@
 title:  2020年高考填报指南如何获取资料
 heading: 2020年高考填报指南如何获取资料
 date: 2020-07-31T02:08:09.359Z
-categories: ["life"]
+categories: ["other"]
 tags: 
 description: 
 ---
