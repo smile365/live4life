@@ -9,7 +9,7 @@ description: 港股打新攻略，适合港股打新的5大港股券商对比评
 
 打新收益率
 
-
+多账号，不识别身份证。
 
 5大券商对比
 
@@ -18,4 +18,6 @@ description: 港股打新攻略，适合港股打新的5大港股券商对比评
 参考链接：
 
 - [华泰证券的涨乐全球通的出入金收费及测试](https://www.jisilu.cn/question/387058)
-- []()
+- [华泰国际涨乐全球通投资账户](https://www.uscreditcardguide.com/huatai_international_brokerage_account/)
+- [华泰涨乐全球通开户攻略](https://www.uscreditcardguide.com/wp-content/uploads/%E5%8D%8E%E6%B3%B0%E6%B6%A8%E4%B9%90%E5%85%A8%E7%90%83%E9%80%9A%E5%BC%80%E6%88%B7%E6%94%BB%E7%95%A5.pdf)
+- [港股打新的券商对比介绍](https://www.uscreditcardguide.com/pre_ipo_brokerage_accounts/)
