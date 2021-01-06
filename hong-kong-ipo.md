@@ -11,6 +11,8 @@ description: 港股打新攻略，适合港股打新的5大港股券商对比评
 
 多账号，不识别身份证。
 
+适合现金认购、适合融资认购。
+
 5大券商对比
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1609903364319.png)
