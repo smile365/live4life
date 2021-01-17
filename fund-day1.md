@@ -2,7 +2,7 @@
 title:  fund-day1
 heading: 小白基金操作日记-day1
 date: 2021-01-10T10:07:21.997Z
-categories: ["code"]
+categories: ["life"]
 tags: 
 draft: true
 description: 
@@ -125,7 +125,7 @@ x 为主。
 
 
 实验开始
-支付宝-财富-基金-搜索-[001650](http://fundf10.eastmoney.com/jjjl_001605.html)-定投-
+支付宝-财富-基金-搜索-[001605](http://fundf10.eastmoney.com/jjjl_001605.html)-定投-
 每周一 250，相当于每个月 1 千。
 
 
