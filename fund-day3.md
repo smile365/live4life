@@ -1,11 +1,10 @@
 ---
-title:  fund-day3
-heading: 数据统计
+title:  买基金投入1万赚到6800万
+heading: 
 date: 2021-01-18T14:30:55.585Z
 categories: ["life"]
 tags: 
-draft: true
-description: 
+description: 关于基金的基础知识，简单讲明白初学者如何投资基金，告诉你新手怎样选基金。
 ---
 
 我是宋洋葱，一枚基金小白，准备花一年的时间系统的学习基金相关知识，并记录自己的学习过程和投资过程，顺便用大白话把我学到的东西讲给你听。
@@ -80,6 +79,4 @@ description:
 纸上得来终觉浅，不真刀实枪的操作怎么能行。今日开始定投基金。
 
 ![](https://gitee.com/smile365/blogimg/raw/master/sxy91/1611069308679.png)
-
-
 
