@@ -69,7 +69,7 @@ WeTool被封杀，目前也无法使用。([手机版微x工具](https://sxy91.c
 ![](https://gitee.com/smile365/blogimg/raw/master/sxy91/1590929879812.png)
 
 
-关注公众号「下课了」，后台回复「工具」可以下载这款小工具。
+关注公众号「下课了」，后台回复「僵尸粉」可以下载这款小工具。
 
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1610077235532.png)
 
