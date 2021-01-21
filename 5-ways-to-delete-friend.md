@@ -2,7 +2,7 @@
 title:  2020如何检测好友是否删除我的5种方法
 heading: 
 date: 2020-05-31T12:30:24.450Z
-categories: ["tools"]
+categories: ["life"]
 tags: 
 description: 
 ---
