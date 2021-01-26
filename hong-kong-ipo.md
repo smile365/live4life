@@ -12,7 +12,8 @@ day1 xxx 开户
 day2 yyy 开户
 第二章：入金
 day3 xx 入金
-
+[华美银行](https://zhuanlan.zhihu.com/p/51848943)
+SIB 银行
 第三章：出金
 day4 xx 出金
 
@@ -33,6 +34,9 @@ day4 xx 出金
 目前[可行的方案](https://note.youdao.com/ynoteshare1/index.html?id=e93ebf2ffd37efa28d1f93101972a565&type=note)：大陆银行-->购汇-->转入 SIB 银行（自行开户）--> 转入券商
 
 ![](https://gitee.com/smile365/blogimg/raw/master/sxy91/1611554806987.png)
+
+
+![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1611642891312.png)
 
 
 
