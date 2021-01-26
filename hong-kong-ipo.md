@@ -17,7 +17,16 @@ description: 港股打新攻略，适合港股打新的5大港股券商对比评
 
 5大券商对比
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1609903364319.png)
+![](https://gitee.com/smile365/blogimg/raw/master/sxy91/1609903364319.png)
+
+
+富途证券入金流程
+
+目前可行的方案：大陆银行-->购汇-->转入 SIB 银行（自行开户）--> 转入券商
+
+![](https://gitee.com/smile365/blogimg/raw/master/sxy91/1611554806987.png)
+
+
 
 参考链接：
 - [港股打新的入门攻略V3.0-刘备教授](https://mp.weixin.qq.com/s/7xpsR53EaYIuTKIsQExVuQ)
