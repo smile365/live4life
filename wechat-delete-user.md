@@ -71,5 +71,6 @@ WeTool被封杀，目前也无法使用。([手机版微x工具](https://sxy91.c
 
 关注公众号「下课了」，后台回复「僵尸粉」可以下载这款小工具。
 
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1610077235532.png)
+![微信扫一扫](https://gitee.com/smile365/blogimg/raw/master/sxy91/1611758520320.png)
 
+注：部门手机扫码会出现“二维码已经过期”，一般是用系统自带的微信快捷扫码。请打开微信后，点击右上角＋ 然后点击『扫一扫』即可正常。
