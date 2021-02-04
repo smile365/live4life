@@ -16,5 +16,9 @@ description:
 
 在9:30~12:00 和 13:00~16:00的持续交易时段里，港交所的系统接受3种类型的订单：增强限价单、特别限价单、限价单。
 
+增强限价单的价格范围： ±24个最小单位
+特别限价单的价格范围： 买一~买十 或 卖一 ~ 卖十。
+限价单：买一 或 卖一
+
 [港股买卖单类型](http://t.financialdatamining.com/qa/three/205?cache=1605664469000zunjia&miningfrom=wechat&hmci=&hmcu=qa&hmkw=&hmpl=f741c57c69610023&hmsr=wechat)
 
