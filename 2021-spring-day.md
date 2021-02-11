@@ -2,7 +2,7 @@
 title:  2021-spring-day
 heading: 寻甸春节旅游计划
 date: 2021-02-11T04:50:52.163Z
-categories: ["life"]
+categories: ["other"]
 tags: 
 description: 寻甸周边适合春节出门旅游的景点推荐
 ---
