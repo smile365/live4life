@@ -2,7 +2,7 @@
 title:  2021-books
 heading: 2021年书单
 date: 2021-03-29T16:42:45.873Z
-categories: ["life"]
+categories: ["books"]
 tags: 
 description: 
 ---
