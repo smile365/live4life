@@ -2,7 +2,7 @@
 title:  刘大猫的财富之旅
 heading: 刘大猫的财富之旅
 date: 2020-07-18T03:55:28.314Z
-categories: ["life"]
+categories: ["read"]
 tags: 
 description: 
 ---
