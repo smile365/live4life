@@ -2,7 +2,7 @@
 title: 不可撼动的财务自由
 heading: 不可撼动的财务自由读后感
 date: 2020-07-21T14:03:14.266Z
-categories: ["life"]
+categories: ["read"]
 tags: 
 description: 托尼·罗宾斯
 ---
