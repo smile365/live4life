@@ -1,10 +1,10 @@
 ---
-title: [一个点子]--社交app的梦 
+title: '[一个点子]--社交app的梦'
 heading: social-app
 date: 2021-04-28T05:08:08.826Z
 categories: ["other"]
 tags: 
-description: 一次实验
+description: '一次实验'
 ---
 
 打破时间、空间、地理。
