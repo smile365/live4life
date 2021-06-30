@@ -1,11 +1,13 @@
 ---
-title:  social-app
-heading:
+title: [一个点子]--社交app的梦 
+heading: social-app
 date: 2021-04-28T05:08:08.826Z
-categories: ["life"]
+categories: ["other"]
 tags: 
 description: 一次实验
 ---
+
+打破时间、空间、地理。
 
 
 大部分可能一辈子都找不到合适的另一半
@@ -17,4 +19,6 @@ description: 一次实验
 我的公主/王子
 
 有一个公主/王子在等你
+
+无论多难，王子和公主总会相遇
 
