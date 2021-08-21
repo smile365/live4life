@@ -42,9 +42,7 @@ description: 我如何调低调低证券股票账户交易佣金费用
 
 参考文献：
 
-打新债1000赚450玩法介绍
-
-交了5000元智商税后，在副业这条路上我学会了什么
-
-《了不起的盖茨比》到底好在哪里？
+- [打新债1000赚450玩法介绍](http://mp.weixin.qq.com/s?__biz=MzI5MTAyNTgyOA==&mid=2649535916&idx=1&sn=47a8a89ff9ea4e678b6edc3f32b771de&chksm=f40ef367c3797a7199b33e8fe8ebc4161b82eb9a50c1a02425cd73e8eb83f14f4daea865c96c&scene=21#wechat_redirect)
+- [交了5000元智商税后，在副业这条路上我学会了什么](http://mp.weixin.qq.com/s?__biz=MzI5MTAyNTgyOA==&mid=2649535892&idx=1&sn=79654c1264abb8975a0070225ed0e588&chksm=f40ef35fc3797a49e853d074e0da87b027f2b3c3f6a97841accf1fd491230455c8a9fc190ff1&scene=21#wechat_redirect)
+- [《了不起的盖茨比》到底好在哪里？](http://mp.weixin.qq.com/s?__biz=MzI5MTAyNTgyOA==&mid=2649535902&idx=1&sn=7a5dfea9f87b8f46785db7dfc32256d1&chksm=f40ef355c3797a43c95fb0b82cb06fd1b25609eda1efdf7da7a8b7dae35fd789a24e8232df26&scene=21#wechat_redirect)
 
