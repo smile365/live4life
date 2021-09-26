@@ -7,9 +7,12 @@ tags:
 description: 
 ---
 
-九寨沟旅游计划
+## 九寨沟旅游计划
 预计出发日期：2021年10月2日
+订票方式：[官网或小程序](http://www.abatour.com/)
+交通信息：[九寨沟交通](http://www.abatour.com/travel/xianjzg/jzg/jingqu_0005.htmlvvvv)
 
+## 出行方案
 方案1：飞机（单程￥1700,4h）
 {成都} --飞机￥1600,2h--> {黄龙机场} --大巴￥50,2h--> {九寨沟景区}
 
@@ -30,4 +33,8 @@ description:
 
 
 参考文章
-- [自助游九寨沟超详尽攻略](http://www.mafengwo.cn/i/935765.html)
+- [2019年--2020如何玩转九寨沟](2020如何玩转九寨沟，看这篇攻略就足够了)
+- [2019年--九寨沟照片欣赏](https://www.mafengwo.cn/gonglve/ziyouxing/320180.html)
+- [2017年--九寨沟要这样玩才能不留遗憾](https://www.mafengwo.cn/gonglve/ziyouxing/2855.html)
+- [2012年--自助游九寨沟超详尽攻略](http://www.mafengwo.cn/i/935765.html)
+- [2011年--十月迷失在五彩的九寨沟](https://www.mafengwo.cn/i/759584.html)
