@@ -32,11 +32,10 @@ description:
 九寨沟到成都的大巴从6点半开始，半小时发一班，最晚到10点
 
 成都到九寨沟自家路线   
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1632656105421.png)
+![enter description here](./images/1632656328343.png)
 
 九寨沟导览图  
-![enter description here](https://gitee.com/smile365/blogimg/raw/master/sxy91/1632656105426.png)
-
+![九寨沟导览图](./images/1632656365263.png)
 
 参考文章
 - [2019年--2020如何玩转九寨沟](2020如何玩转九寨沟，看这篇攻略就足够了)
