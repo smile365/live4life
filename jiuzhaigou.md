@@ -9,8 +9,9 @@ description:
 
 ## 九寨沟旅游计划
 - 预计出发日期：2021年10月2日
-- 订票方式：[官网或小程序](http://www.abatour.com/)
+- 景区订票方式：[官网或小程序](http://www.abatour.com/)
 - 交通信息：[九寨沟交通](http://www.abatour.com/travel/xianjzg/jzg/jingqu_0005.htmlvvvv)
+- 班车订票方式[同城旅行](https://bus.ly.com/#/list?startname=%E6%88%90%E9%83%BD&arrivename=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%8E%BF&startdatetime=2021-10-02&startStation=&arriveStation=&depCId=1328&desCId=3993&refid=1035396140) 或 搜索各大客运站的公众号或网站，如[成都集散中心](https://public.tz12306.com/)
 
 ## 出行方案
 方案1：飞机（单程￥1700,4h）  
@@ -28,6 +29,16 @@ description:
 - 10月4日：8:00九寨沟-->成都
 
 回程：九寨沟到成都的大巴从6点半开始，半小时发一班，最晚到10点
+
+## 成都 --> 九寨沟
+
+7点起床，简单洗漱后出发，做地铁到新南门客运站。
+
+![enter description here](./images/1633073320985.png)
+
+![enter description here](./images/1633073452753.png)
+
+8点30从新南门客运站到九寨沟客运站，大概11小时，晚上7点左右到。
 
 
 ## 预算
