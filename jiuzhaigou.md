@@ -14,6 +14,13 @@ description:
 - 班车订票方式：[同城旅行](https://bus.ly.com/#/list?startname=%E6%88%90%E9%83%BD&arrivename=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%8E%BF&startdatetime=2021-10-02&startStation=&arriveStation=&depCId=1328&desCId=3993&refid=1035396140) 或 搜索各大客运站的公众号或网站，如[成都集散中心](https://public.tz12306.com/)
 - 注意：国庆等高峰期最好提前两天订票（门票、车票、住宿）
 
+
+## 九寨沟天气
+可能有雨，天气转凉，需要带外套和伞。  
+![enter description here](./images/1633074089147.png)
+
+
+
 ## 出行方案
 方案1：飞机（单程￥1700,4h）  
 {成都} --飞机￥1600,2h--> {黄龙机场} --大巴￥50,2h--> {九寨沟景区}
