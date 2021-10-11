@@ -2,7 +2,7 @@
 title: Bone conduction headphones
 heading: 骨传导耳机值得买吗
 date: 2021-10-11T05:42:54.864Z
-categories: ["life"]
+categories: ["other"]
 tags: 
 description: Bone conduction headphones
 ---
