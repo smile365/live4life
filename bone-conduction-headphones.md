@@ -63,3 +63,9 @@ description: Bone conduction headphones
 
 [](https://www.dealmoon.com/guide/929492)
 
+
+用过那么多耳机，就这款深得我心，丢一次买一次，唯一的缺点就是充电口能不能换成type-c，手机都type-c那么多年了，这个耳机依然还是mir-usb，出门得准备两条线，好麻烦。
+
+![enter description here](https://gitee.com/smile365/blogimg/raw/master/小书匠/1633937437583.png)
+
+
