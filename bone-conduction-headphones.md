@@ -69,3 +69,5 @@ description: Bone conduction headphones
 ![enter description here](https://gitee.com/smile365/blogimg/raw/master/小书匠/1633937437583.png)
 
 
+已经买了4次了。
+
