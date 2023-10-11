@@ -1,10 +1,10 @@
 ---
-title:  Insurance
+title: 保险应该怎么买？
 heading:  
 date: 2022-12-29T07:05:00.631Z
 tags: 
 categories: ["life"]
-Description:  
+Description:  Insurance
 ---
 
 保险调研
